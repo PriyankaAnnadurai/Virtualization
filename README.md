@@ -36,6 +36,10 @@ To install and configure Oracle VM VirtualBox.
         * Minimum 2 GB RAM
         * Create Virtual Hard Disk (20 GB recommended).
     * Start Virtual Machine and provide ISO to install OS.
+## Snapshots:
+![image](https://github.com/user-attachments/assets/a2d0028a-f1d3-4e6e-8897-7fffbfe71cfd)
+![image](https://github.com/user-attachments/assets/9c83c8d8-1af5-4998-8fbc-945c61a4d160)
+
 
 ## Result:
 Thus, Oracle VM VirtualBox was installed successfully.
